@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./grpc_protos/views/v1/account"
+    ]
+}
